@@ -1,0 +1,1 @@
+# condições booleanas são estados do dado no qual pode ser verdadeiro ou falso
